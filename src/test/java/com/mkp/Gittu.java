@@ -1,9 +1,13 @@
 package com.mkp;
 
 public class Gittu {
-	private void method1() {
+	public void method1() 
+	{
 		System.out.println("1");
-
+		System.out.println("1.2");
 	}
-
+	public void method5()
+	{
+		
+	}
 }
